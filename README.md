@@ -1,7 +1,6 @@
-## Hi there 👋
-
-<!--
-**anakaren53/anakaren53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<li><b>Name:</b> Ana Karen Gallardo Ruiz</li>
+<li><b>Location:</b> Chihuahua</li>
+<li><b>Lenguagues:</b> English and Spanish </li>
 
 Here are some ideas to get you started:
 
